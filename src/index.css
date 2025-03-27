@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+body {
+    margin: 0;
+    background: #f1f1f1;
+    font-family:
+        -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+        Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family:
+        source-code-pro,
+        Menlo,
+        Monaco,
+        Consolas,
+        Courier New,
+        monospace;
+}
